@@ -1,1 +1,1 @@
-das ist die Überschrift
+das ist die bessere Überschrift
